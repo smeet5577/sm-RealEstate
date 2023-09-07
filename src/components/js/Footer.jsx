@@ -6,7 +6,7 @@ export default function footer() {
     <section className="pt-3">
       <div className="footer-wrapper">
         <div className="footer-crt container">
-          <p>Copyright &copy; 2023 Vishal Vishwakarma. All rights reserved.</p>
+          <p>Copyright &copy; 2023 MIT SHAH. All rights reserved.</p>
         </div>
       </div>
     </section>
